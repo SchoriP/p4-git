@@ -1,9 +1,0 @@
-# POC For Git And Perforce collaboration
-
-## Branching Ang Merging Workflow...
-
-## Using p4 git Clients...
-
-## And More...
-
-## cahnge after git-pa clone
